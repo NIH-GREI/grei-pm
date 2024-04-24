@@ -5,11 +5,11 @@ Main NIH-GREI Project Management Repository
 This is the main repository for NIH-GREI project management tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
 
 ## About Tracking Issues
-Tracking issues are GitHub issues in the [GREI repository]([url](https://github.com/NIH-GREI/grei-pm)]connecting with deliverables, strategic objectives, and resource monitoring and reporting requirements.
+Tracking issues are GitHub issues in the GREI repository connecting with deliverables, strategic objectives, and resource monitoring and reporting requirements.
 
 Tracking issues:
 - Provide predictable, accessible locations to record and retrieve status on any activity requiring tracking.
-- Contain links to documentation, communications channels (e.g., Slack, Zulip), and other related resources.
+- Contain links to documentation, communications channels (e.g., Slack), and other related resources.
 
 NIH GREI team members should create a tracking issue in this repository whenever they need tasks tracked, managed, and reported on across multiple sprints.
 

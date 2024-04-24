@@ -7,6 +7,8 @@ This is the main repository for NIH-GREI project management tracking issues. By 
 ## About Tracking Issues
 Tracking issues are GitHub issues in the GREI repository connecting with deliverables, strategic objectives, and resource monitoring and reporting requirements.
 See the main tracking issue for approved Y3 objectives and goals: https://github.com/NIH-GREI/grei-pm/issues/16
+See the main tracking issue for approved Y1 objectives and goals: to create
+See the main tracking issue for approved Y2 objectives and goals: to create
 
 Tracking issues:
 - Provide predictable, accessible locations to record and retrieve status on any activity requiring tracking.

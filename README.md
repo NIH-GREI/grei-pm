@@ -4,6 +4,20 @@ Main NIH-GREI Project Management Repository
 ## About
 This is the main repository for NIH-GREI project management tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
 
+## all related Google drives
+
+
+## Related
+[Parking lot of ideas](https://docs.google.com/document/d/18a7tgKQUX6eowlVNY93efMOW1o0t_cfMPYb5xhHfkhA/edit#heading=h.22mqyjui64u9)
+
+(GREI Only). Dashboards used for tracking, managing, and monitoring tracking issues in [GREI repo](url)
+
+[name](url) (Private). Main GREI dashboards
+
+
+[sabo](https://github.com/IQSS/sabo) (IQSS Only). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.
+
+
 ## About Tracking Issues
 Tracking issues are GitHub issues in the GREI repository connecting with deliverables, strategic objectives, and resource monitoring and reporting requirements.
 - See the main tracking issue for approved Y3 objectives and goals: https://github.com/NIH-GREI/grei-pm/issues/16

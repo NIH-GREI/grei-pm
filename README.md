@@ -8,6 +8,9 @@ This is the main repository for NIH-GREI project management tracking issues. By 
 
 
 ## Related Documentation
+Link to Blog site:
+Other relevant links: 
+
 [Parking lot of ideas](https://docs.google.com/document/d/18a7tgKQUX6eowlVNY93efMOW1o0t_cfMPYb5xhHfkhA/edit#heading=h.22mqyjui64u9)
 
 (GREI Only). Dashboards used for tracking, managing, and monitoring tracking issues in [GREI repo](url)

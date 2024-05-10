@@ -11,6 +11,8 @@ This is the main repository for NIH-GREI project management tracking issues. By 
 - See the main tracking issue for approved Y2 objectives and goals: to create
 
 ## all related Google drives
+All GREI Coopetition working group documents: https://drive.google.com/drive/folders/18_XQbHk2HfaS06OSa1CtyLYCrhFgBKJI
+All GREI Coopetition Plans: https://drive.google.com/drive/folders/11FVvxxzhN1swnCapMcTIhj9IH6n4mRnp
 
 
 ## Related Documentation

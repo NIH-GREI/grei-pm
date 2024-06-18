@@ -26,7 +26,7 @@ This is the main repository for NIH-GREI project management tracking issues. The
 - [NIH ODSS Generalist Repository Ecosystem Initiative](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) (_Official NIH GREI webpage_)
 - [The GREI Zenodo Community](https://zenodo.org/communities/grei/) (_published GREI outputs_)
 - [The GREI Community Blog](https://medium.com/@blog-grei) on Medium
-- [GREI Google Group Forum](https://groups.google.com/g/contactgrei) (_join link for GREI email list, whcih can be used for delivering updates and to initiate discussion_)
+- [GREI Google Group Forum](https://groups.google.com/g/contactgrei) (_join link for GREI email list, which can be used for delivering updates and to initiate discussion_)
 - [GREI Feedback Form](https://forms.gle/zCXn8k2Kp7kz68EH8) (_public feedback form_) 
 
 ## GitHub Dashboards (Private)

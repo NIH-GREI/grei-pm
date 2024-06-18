@@ -1,30 +1,46 @@
 # grei-pm
 Main NIH-GREI Project Management Repository
 
-## Code of Conduct
--Link
+## Code of Conduct & Member Rosters
+- [NIH GREI Coopetition CWG Principles and Code of Conduct](url) (_updated document not yet available, add after July CWG meeting_)
+- [GREI Team Roster](https://docs.google.com/spreadsheets/d/1WyEkyO76H8c4ZCwM5SjjV5H9REVmE2zSSU3xI1bG9Ec/edit?usp=sharing)
+- [GREI Y3 Task Group Leads & Members Rosters](https://docs.google.com/spreadsheets/d/1khSF8hSIMl-QjBFozqj3udV5tNXuGO6_3Le0l9-Nq-A/edit?usp=sharing) 
 
 ## About
-This is the main repository for NIH-GREI project management tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
-- approved Y3 objectives and goals: https://github.com/NIH-GREI/grei-pm/issues/16
-- See the main tracking issue for approved Y1 objectives and goals: to create
-- See the main tracking issue for approved Y2 objectives and goals: to create
+This is the main repository for NIH-GREI project management tracking issues. The following Coopetition Plan Year tracking issues link to all other tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
+- [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
+- [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
+- [Y1-NIH-GREI: Approved NIH GREI Coopetition Plan Year 1 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/85)
 
-## all related Google drives
-All GREI Coopetition working group documents: https://drive.google.com/drive/folders/18_XQbHk2HfaS06OSa1CtyLYCrhFgBKJI
+## GREI Google Drive & Key Documents
+[GREI Coopetition Working Group shared Google Drive folder](https://drive.google.com/drive/folders/18_XQbHk2HfaS06OSa1CtyLYCrhFgBKJI?usp=drive_link) 
 
+### Coopetition Plan Documents
+- [NIH GREI Coopetition Plan Year 3](https://docs.google.com/document/d/1XTJSOfUlg06WYGXe3URVFH6VaPMkBNPqVZgrsqOrbc0/edit?usp=sharing)
+- [NIH GREI Coopetition Plan Year 2](https://docs.google.com/document/d/1UX8xp7PxVdPQQKOP-Rii9Plu-v_iAs-wW1xjOAu063E/edit?usp=sharing)
+- [NIH GREI Coopetition Plan Year 1](https://docs.google.com/document/d/1QipVlAnhGLzG5si2WvLiCEO49DYyBZzYuvFOnmm7qro/edit?usp=sharing) & [NIH GREI Coopetition Working Group Year 1 Summary](https://docs.google.com/document/d/1y3i5fFEZb1CQ69vF3YfmzAwYts2vu2rZcGaNRc28idM/edit?usp=sharing)
 
+[Parking lot of ideas](https://docs.google.com/document/d/18a7tgKQUX6eowlVNY93efMOW1o0t_cfMPYb5xhHfkhA/edit?usp=sharing) (_document collecting ideas for future GREI coopeition work_)
 
-## Related Documentation
-Link to Blog site:
-Other relevant links: 
+## Related Links
+- [NIH ODSS Generalist Repository Ecosystem Initiative](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative) (_Official NIH GREI webpage_)
+- [The GREI Zenodo Community](https://zenodo.org/communities/grei/) (_published GREI outputs_)
+- [The GREI Community Blog](https://medium.com/@blog-grei) on Medium
+- [GREI Google Group Forum](https://groups.google.com/g/contactgrei) (_join link for GREI email list, whcih can be used for delivering updates and to initiate discussion_)
+- [GREI Feedback Form](https://forms.gle/zCXn8k2Kp7kz68EH8) (_public feedback form_) 
 
-[Parking lot of ideas](https://docs.google.com/document/d/18a7tgKQUX6eowlVNY93efMOW1o0t_cfMPYb5xhHfkhA/edit#heading=h.22mqyjui64u9)
+## GitHub Dashboards (Private)
+Used for tracking, managing, and monitoring tracking issues in [GREI repo](https://github.com/NIH-GREI/grei-pm)
 
-(GREI Only). Dashboards used for tracking, managing, and monitoring tracking issues in [GREI repo](url)
-
-[name](url) (Private). Main GREI dashboards
-
+[NIH-GREI Project Management Dashboards](https://github.com/orgs/NIH-GREI/projects/1/views/1)
+- [Y3 Co Chairs PM](https://github.com/orgs/NIH-GREI/projects/1/views/5)
+- [GREI Repositories](https://github.com/orgs/NIH-GREI/projects/1/views/2)
+- [GREI Objectives](https://github.com/orgs/NIH-GREI/projects/1/views/9)
+- [Community Engagement](https://github.com/orgs/NIH-GREI/projects/1/views/7)
+- [Task Groups](https://github.com/orgs/NIH-GREI/projects/1/views/6)
+- [Y3 Tasks](https://github.com/orgs/NIH-GREI/projects/1/views/3)
+- [Y3 Deliverables](https://github.com/orgs/NIH-GREI/projects/1/views/4)
+- [All by category](https://github.com/orgs/NIH-GREI/projects/1/views/10)
 
 [sabo](https://github.com/IQSS/sabo) (IQSS Only). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.
 

@@ -66,6 +66,3 @@ Development of a proposal for investigating or addressing a problem. When approv
 Development and delivery of a specific report (e.g., project status)
 ### Monitor
 Issue for regular monitoring of a system, a resource, or other repeating task 
-
-## Related
-[sabo](https://github.com/IQSS/sabo) (IQSS Only). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.

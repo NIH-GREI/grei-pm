@@ -1,5 +1,5 @@
 # grei-pm
-Welcome to the main project management repository. To ensure transparency and foster active community engagement, we have established this platform to share our objectives and related tasks during the project timeline. The community can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
+Welcome to the main project management repository. To ensure transparency and foster active community engagement, GREI has established this platform to share its objectives and related tasks during the project timeline. The community can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
 
 ## About
 This is the main repository for NIH-GREI project management tracking issues. The following Coopetition Plan Year tracking issues link to all other tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.

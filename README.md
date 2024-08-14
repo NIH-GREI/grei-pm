@@ -1,5 +1,5 @@
 # grei-pm
-Main NIH-GREI Project Management Repository
+Welcome to the main project management repository. To ensure transparency and foster active community engagement, we have established this platform to share our objectives and related tasks. You can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
 
 ## Code of Conduct & Member Rosters
 - [NIH GREI Coopetition CWG Principles and Code of Conduct](url) (_updated document not yet available, add after July CWG meeting_)

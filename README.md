@@ -1,16 +1,16 @@
 # grei-pm
-Welcome to the main project management repository. To ensure transparency and foster active community engagement, we have established this platform to share our objectives and related tasks. You can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
-
-## Code of Conduct & Member Rosters
-- [NIH GREI Coopetition CWG Principles and Code of Conduct](url) (_updated document not yet available, add after July CWG meeting_)
-- [GREI Team Roster](https://docs.google.com/spreadsheets/d/1WyEkyO76H8c4ZCwM5SjjV5H9REVmE2zSSU3xI1bG9Ec/edit?usp=sharing)
-- [GREI Y3 Task Group Leads & Members Rosters](https://docs.google.com/spreadsheets/d/1khSF8hSIMl-QjBFozqj3udV5tNXuGO6_3Le0l9-Nq-A/edit?usp=sharing) 
+Welcome to the main project management repository. To ensure transparency and foster active community engagement, we have established this platform to share our objectives and related tasks during the project timeline. You can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
 
 ## About
 This is the main repository for NIH-GREI project management tracking issues. The following Coopetition Plan Year tracking issues link to all other tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.
 - [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
 - [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
 - [Y1-NIH-GREI: Approved NIH GREI Coopetition Plan Year 1 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/85)
+
+## Code of Conduct & Member Rosters
+- [NIH GREI Coopetition CWG Principles and Code of Conduct](url) (_updated document not yet available, add after July CWG meeting_)
+- [GREI Team Roster](https://docs.google.com/spreadsheets/d/1WyEkyO76H8c4ZCwM5SjjV5H9REVmE2zSSU3xI1bG9Ec/edit?usp=sharing)
+- [GREI Y3 Task Group Leads & Members Rosters](https://docs.google.com/spreadsheets/d/1khSF8hSIMl-QjBFozqj3udV5tNXuGO6_3Le0l9-Nq-A/edit?usp=sharing) 
 
 ## GREI Google Drive & Key Documents
 [GREI Coopetition Working Group shared Google Drive folder](https://drive.google.com/drive/folders/18_XQbHk2HfaS06OSa1CtyLYCrhFgBKJI?usp=drive_link) 

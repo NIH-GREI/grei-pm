@@ -4,6 +4,7 @@ Welcome to the main project management repository. To ensure transparency and fo
 ## Engaging with the GREI Github
 - Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
   - Within the year 3 Objectives, the [Task Group PM](https://github.com/NIH-GREI/grei-pm/issues/34) issue holds all task groups, tasks and deliverables, and expected outputs, including links to those outputs when available
+  -     - Each ACTIVE task and deliverable contains the GitHub contact information of the group co-leads and members. You may utilize these contacts to direct question and comments on the tasks and deliverables.
 - Year 1 and Year 2 goals and deliverables are also available for review
   - [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
   - [Y1-NIH-GREI: Approved NIH GREI Coopetition Plan Year 1 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/85)

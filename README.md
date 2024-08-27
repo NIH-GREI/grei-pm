@@ -2,7 +2,8 @@
 Welcome to the main project management repository. To ensure transparency and foster active community engagement, GREI established this platform in YEAR 3 to share its objectives and related tasks during the project timeline. The community can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
 
 ## Engaging with the GREI Github
--
+- Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
+- Within the year 3 Objectives, the [Task Group PM](https://github.com/NIH-GREI/grei-pm/issues/34) issue holds all task groups, their tasks and deliverables, and expected outputs, including links to those outputs when available
 -
 
 ## About

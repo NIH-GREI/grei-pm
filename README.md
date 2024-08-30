@@ -15,8 +15,8 @@ GREI currently includes seven established generalist repositories that work toge
 - [Figshare](https://figshare.com/)
 - [Mendeley](https://data.mendeley.com/)
 - [Open Science Framework (OSF)](https://osf.io/)
-- Vivli](https://vivli.org/)
-- Zenodo](https://zenodo.org/)
+- [Vivli](https://vivli.org/)
+- [Zenodo](https://zenodo.org/)
 
 ## Engaging with the GREI Github
 - Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)

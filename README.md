@@ -10,13 +10,13 @@ GREI’s mission is twofold:
 2. The secondary mission is to raise general awareness and help researchers adopt FAIR principles to better share and reuse data.
 
 GREI currently includes seven established generalist repositories that work together to establish consistent metadata, develop use cases for data sharing and reuse, train and educate researchers on FAIR data and the importance of sharing:
-[Dataverse](https://dataverse.harvard.edu/)
-[Dryad](https://datadryad.org/stash)
-[Figshare](https://figshare.com/)
-[Mendeley](https://data.mendeley.com/)
-[Open Science Framework (OSF)](https://osf.io/)
-[Vivli](https://vivli.org/)
-[Zenodo](https://zenodo.org/)
+- [Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/stash)
+- [Figshare](https://figshare.com/)
+- [Mendeley](https://data.mendeley.com/)
+- [Open Science Framework (OSF)](https://osf.io/)
+- Vivli](https://vivli.org/)
+- Zenodo](https://zenodo.org/)
 
 ## Engaging with the GREI Github
 - Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)

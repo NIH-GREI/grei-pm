@@ -25,6 +25,8 @@ GREI currently includes seven established generalist repositories that work toge
 - Year 1 and Year 2 goals and deliverables are also available for review
   - [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
   - [Y1-NIH-GREI: Approved NIH GREI Coopetition Plan Year 1 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/85)
+ 
+As a stakeholder, researchers, or interested community member, utilize GREI's discussion feature to initiate discussions on any GREI related topic: [GREI Discussion Board](https://github.com/NIH-GREI/grei-pm/discussions)
 
 ## About
 This is the main repository for NIH-GREI project management tracking issues. Each year, GREI establishes goals around its main objectives and designates Task Groups to bring those goals to completion. The following Coopetition Plan Year tracking issues link to all other tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.

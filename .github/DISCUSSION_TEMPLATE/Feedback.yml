@@ -1,0 +1,89 @@
+title: Add title
+body:
+  - type: checkboxes
+    attributes:
+      label: Please select one or more topics you'd like to provide feedback on.
+      options:
+        - label: GREI Event (Webinar, Workshop, Community Call, etc)
+          required: false
+        - label: GREI Year 3 Objective, Task, or Deliverable
+          required: false
+        - label: GREI Resources (Comparison Chart, Selection Flowchart, etc)
+          required: false
+        - label: Other (please specify)
+          required: false
+          
+  - type: input
+    id: other_specify
+    attributes:
+      label: If applicable, what other topic would you like to provide feedback on?
+      description: 
+    validations:
+      required: false
+  
+  - type: checkboxes
+    attributes:
+      label: If applicable, select the GREI Year 3 Objective, Task, or Deliverable.
+      options:
+        - label: https://github.com/NIH-GREI/grei-pm/issues/80
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/34
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/79
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/1
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/7
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/10
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/11
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/12
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/13
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/14
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/15
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/39
+          required: false
+
+  - type: textarea
+    id: question_comments
+    attributes:
+      label: Questions or Comments
+      description: Please specify the GREI event or resource.
+      render: bash
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestions
+    attributes:
+      label: Suggestions
+      description: Please share any suggestions for improvement.
+      render: bash
+    validations:
+      required: false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

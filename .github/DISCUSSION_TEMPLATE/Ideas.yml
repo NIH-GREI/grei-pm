@@ -1,0 +1,57 @@
+title: Add title
+body:
+  - type: checkboxes
+    attributes:
+      label: Select the GREI Year 3 Objective, Task, or Deliverable your idea aligns with.
+      options:
+        - label: https://github.com/NIH-GREI/grei-pm/issues/80
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/34
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/79
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/1
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/7
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/10
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/11
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/12
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/13
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/14
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/15
+          required: false
+        - label: https://github.com/NIH-GREI/grei-pm/issues/39
+          required: false
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Please share your idea or use case. 
+      description: 
+      render: bash
+    validations:
+      required: false
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

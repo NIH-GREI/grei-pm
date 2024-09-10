@@ -25,30 +25,25 @@ body:
     attributes:
       label: If applicable, select the GREI Year 3 Objective, Task, or Deliverable.
       options:
-        - label: https://github.com/NIH-GREI/grei-pm/issues/80
+        - label: Community Engagement (All units)
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/34
+        - label: Desirable  Repository Characteristics
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/79
+        - label: Consistent Metadata
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/1
+        - label: Search & Browse
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/7
+        - label: Analytics & Reporting
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/10
+        - label: Use Cases
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/11
+        - label: Connecting Digital Objects
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/12
+        - label: QA/QC
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/13
+        - label: Training & Community Engagement
           required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/14
-          required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/15
-          required: false
-        - label: https://github.com/NIH-GREI/grei-pm/issues/39
-          required: false
+
 
   - type: textarea
     id: question_comments

@@ -1,7 +1,7 @@
 title: Add title
 body:
-   - type: checkboxes
-      attributes:
+  - type: checkboxes
+     attributes:
       label: If applicable, select the GREI Year 3 Objective, Task, or Deliverable.
       options:
         - label: #79

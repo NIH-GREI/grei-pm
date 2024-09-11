@@ -4,23 +4,23 @@ body:
     attributes:
       label: If applicable, select the GREI Year 3 Objective, Task, or Deliverable.
       options:
-        - label: #79
+        - label: Community Engagement (All units)
           required: false
-        - label: #1
+        - label: Desirable Repository Characteristics
           required: false
-        - label: #7
+        - label: Consistent Metadata
           required: false
-        - label: #10
+        - label: Search & Browse
           required: false
-        - label: #11
+        - label: Analytics & Reporting
           required: false
-        - label: #12
+        - label: Use Cases
           required: false
-        - label: #13
+        - label: Connecting Digital Objects
           required: false
-        - label: #14
+        - label: QA/QC
           required: false
-        - label: #15
+        - label: Training & Community Engagement
           required: false
 
   - type: textarea

@@ -21,12 +21,14 @@ GREI currently includes seven established generalist repositories that work toge
 ## Engaging with the GREI Github
 - Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
   - Within the year 3 Objectives, the [Task Group PM](https://github.com/NIH-GREI/grei-pm/issues/34) issue holds all task groups, tasks and deliverables, and expected outputs, including links to those outputs when available
-    - Each ACTIVE task and deliverable contains the GitHub contact information for the group co-leads and members. You may utilize these contacts to direct question and comments on the tasks and deliverables.
+    - Each ACTIVE task and deliverable contains the GitHub contact information for the group co-leads and members. 
 - Year 1 and Year 2 goals and deliverables are also available for review
   - [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
   - [Y1-NIH-GREI: Approved NIH GREI Coopetition Plan Year 1 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/85)
  
-As a stakeholder, researcher, or interested community member, utilize GREI's discussion feature to initiate discussions on any GREI related topic: [GREI Discussion Board](https://github.com/NIH-GREI/grei-pm/discussions)
+As a stakeholder, researcher, or interested community member:
+- utilize GREI's "DISCUSSION" feature to initiate discussions on any GREI related topic: [GREI Discussion Board](https://github.com/NIH-GREI/grei-pm/discussions)
+- - The FEEDBACK and IDEAS options under this feature contain a template guiding users on how to engage with the GREI objectives and provide ideas for consideration.
 
 ## About
 This is the main repository for NIH-GREI project management tracking issues. Each year, GREI establishes goals around its main objectives and designates Task Groups to bring those goals to completion. The following Coopetition Plan Year tracking issues link to all other tracking issues. By design, some of the documents, or other resources linked from tracking issues _may not be publicly accessible_.

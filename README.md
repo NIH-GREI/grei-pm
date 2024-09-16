@@ -19,8 +19,8 @@ GREI currently includes seven established generalist repositories that work toge
 - [Zenodo](https://zenodo.org/)
 
 ## Engaging with the GREI Github
-- Start by navigating the YEAR 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
-  - Within the year 3 Objectives, the [Task Group PM](https://github.com/NIH-GREI/grei-pm/issues/34) issue holds all task groups, tasks and deliverables, and expected outputs, including links to those outputs when available
+- Start by navigating the Year 3 objectives: [Y3-NIH-GREI: Approved NIH GREI Coopetition Plan Year 3 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/16)
+  - Within the Year 3 Objectives, the [Task Group PM](https://github.com/NIH-GREI/grei-pm/issues/34) issue holds all task groups, tasks and deliverables, and expected outputs, including links to those outputs when available
     - Each ACTIVE task and deliverable contains the GitHub contact information for the group co-leads and members. 
 - Year 1 and Year 2 goals and deliverables are also available for review
   - [Y2-NIH-GREI: Approved NIH GREI Coopetition Plan Year 2 - Overall Summary](https://github.com/NIH-GREI/grei-pm/issues/86)
@@ -42,7 +42,7 @@ This is the main repository for NIH-GREI project management tracking issues. Eac
 ## Code of Conduct & Member Rosters
 - [NIH GREI Coopetition CWG Principles and Code of Conduct](url) (_updated document not yet available, add after July CWG meeting_)
 - [GREI Team Roster](https://docs.google.com/spreadsheets/d/1WyEkyO76H8c4ZCwM5SjjV5H9REVmE2zSSU3xI1bG9Ec/edit?usp=sharing)
-- [GREI Y3 Task Group Leads & Members Rosters](https://docs.google.com/spreadsheets/d/1khSF8hSIMl-QjBFozqj3udV5tNXuGO6_3Le0l9-Nq-A/edit?usp=sharing) 
+- [GREI Year 3 Task Group Leads & Members Rosters](https://docs.google.com/spreadsheets/d/1khSF8hSIMl-QjBFozqj3udV5tNXuGO6_3Le0l9-Nq-A/edit?usp=sharing) 
 
 ## GREI Google Drive & Key Documents
 [GREI Coopetition Working Group shared Google Drive folder](https://drive.google.com/drive/folders/18_XQbHk2HfaS06OSa1CtyLYCrhFgBKJI?usp=drive_link) 
@@ -65,7 +65,7 @@ This is the main repository for NIH-GREI project management tracking issues. Eac
 Used for tracking, managing, and monitoring tracking issues in [GREI repo](https://github.com/NIH-GREI/grei-pm)
 
 [NIH-GREI Project Management Dashboards](https://github.com/orgs/NIH-GREI/projects/1/views/1)
-- [Y3 Co Chairs PM](https://github.com/orgs/NIH-GREI/projects/1/views/5)
+- [Year 3 Co Chairs PM](https://github.com/orgs/NIH-GREI/projects/1/views/5)
 - [GREI Repositories](https://github.com/orgs/NIH-GREI/projects/1/views/2)
 - [GREI Objectives](https://github.com/orgs/NIH-GREI/projects/1/views/9)
 - [Community Engagement](https://github.com/orgs/NIH-GREI/projects/1/views/7)

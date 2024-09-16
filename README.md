@@ -1,5 +1,5 @@
 # grei-pm
-Welcome to the main project management repository. To ensure transparency and foster active community engagement, GREI established this platform in YEAR 3 to share its objectives and related tasks during the project timeline. The community can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
+Welcome to the main project management repository. To ensure transparency and foster active community engagement, GREI established this platform in Year 3 to share its objectives and related tasks during the project timeline. The community can access detailed information about our goals and ongoing efforts here: https://about.zenodo.org/projects/grei/
 
 The vision of the Generalist Repository Ecosystem Initiative (GREI) is to develop collaborative approaches for data management and sharing through the inclusion of generalist repositories in the NIH data ecosystem. GREI also aims to better enable search and discovery of NIH-funded data in generalist repositories. 
 

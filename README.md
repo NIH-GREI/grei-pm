@@ -74,8 +74,6 @@ Used for tracking, managing, and monitoring tracking issues in [GREI repo](https
 - [Y3 Deliverables](https://github.com/orgs/NIH-GREI/projects/1/views/4)
 - [All by category](https://github.com/orgs/NIH-GREI/projects/1/views/10)
 
-[sabo](https://github.com/IQSS/sabo) (IQSS Only). Provides a simple interface to the GitHub GraphQL API to support project management and reporting. Under active development; library and scripts are unstable.
-
 
 ## About Tracking Issues
 Tracking issues are GitHub issues in the GREI repository connecting with deliverables, strategic objectives, and resource monitoring and reporting requirements.

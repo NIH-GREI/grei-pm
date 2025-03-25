@@ -1,10 +1,14 @@
 # grei-pm
 
+![image](https://github.com/user-attachments/assets/0c522d0f-c9fa-4440-bd8d-958c501542f7)
+
 ## Welcome to the Generalist Repository Ecosystem Initiative (GREI) project management repository!
 
 To ensure transparency and foster active community engagement, GREI established this platform in Year 3 of the program (2024) to share its objectives and related tasks during the project timeline. See the GREI links section at the bottom of this page for more information about GREI and our vision and mission.
 
 GREI currently includes seven established generalist repositories that work together to establish consistent metadata, develop use cases for data sharing and reuse, and train and educate researchers on FAIR data and the importance of data sharing.
+
+![grei-logo-banner-4_720](https://github.com/user-attachments/assets/3b631cdc-844f-4deb-bb7b-b64d6d12ff7e)
 
 ## Navigating the GREI Github
 The GREI program is currently organized around 8 objectives, which provide the framework for unique collaborative tasks and repository implementation efforts. The GREI GitHub is thus organized using two primary issue types, GREI Objectives and GREI Tasks.

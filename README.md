@@ -23,7 +23,7 @@ Each objective issue listed below provides details about our work related to the
 - [GREI Objective 6 - Connecting Digital Objects #13](https://github.com/NIH-GREI/grei-pm/issues/13)
 - [GREI Objective 7 - QA/QC #14](https://github.com/NIH-GREI/grei-pm/issues/14)
 - [GREI Objective 8 - Training & Community Engagement #15](https://github.com/NIH-GREI/grei-pm/issues/15)
-- [GREI Objective 9 - Program Closeout](https://github.com/NIH-GREI/grei-pm/issues/242)
+- [GREI Objective 9 - Program Closeout #242](https://github.com/NIH-GREI/grei-pm/issues/242)
 
 From the objective issues, you can follow links to task issues that provide additional details about each task and work that has been done or is planned in support of it.
 
